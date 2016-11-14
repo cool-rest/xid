@@ -1,6 +1,6 @@
 # Globally Unique ID Generator
 
-[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/rs/xid) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/rs/xid/master/LICENSE) [![Build Status](https://travis-ci.org/rs/xid.svg?branch=master)](https://travis-ci.org/rs/xid) [![Coverage](http://gocover.io/_badge/github.com/rs/xid)](http://gocover.io/github.com/rs/xid)
+[![godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/cool-rest/xid) [![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/rs/xid/master/LICENSE) [![Build Status](https://travis-ci.org/rs/xid.svg?branch=master)](https://travis-ci.org/rs/xid) [![Coverage](http://gocover.io/_badge/github.com/cool-rest/xid)](http://gocover.io/github.com/cool-rest/xid)
 
 Package xid is a globally unique id generator library, ready to be used safely directly in your server code.
 
@@ -62,7 +62,7 @@ References:
 
 ## Install
 
-    go get github.com/rs/xid
+    go get github.com/cool-rest/xid
 
 ## Usage
 
@@ -84,4 +84,4 @@ guid.Counter()
 
 ## Licenses
 
-All source code is licensed under the [MIT License](https://raw.github.com/rs/xid/master/LICENSE).
+All source code is licensed under the [MIT License](https://raw.github.com/cool-rest/xid/master/LICENSE).

@@ -32,7 +32,7 @@
 //   - Embedded time with 1 second precision
 //   - Unicity guaranted for 16,777,216 (20 bits) unique ids per second and per host/process
 //
-// Best used with xlog's RequestIDHandler (https://godoc.org/github.com/rs/xlog#RequestIDHandler).
+// Best used with xlog's RequestIDHandler (https://godoc.org/github.com/cool-rest/xlog#RequestIDHandler).
 //
 // References:
 //
